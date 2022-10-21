@@ -10,7 +10,7 @@
 </a>
 </p>
 
-# Gaussian Process regression for astronomical time-series
+# Gaussian Process regression for astronomical time-series 
 
 ### Suzanne Aigrain & Daniel Foreman-Mackey
 
